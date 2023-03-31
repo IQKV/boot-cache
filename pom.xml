@@ -4,7 +4,7 @@
 
     <groupId>org.ujar.boot</groupId>
     <artifactId>ujar-boot-cache</artifactId>
-    <version>0.2.0-SNAPSHOT</version>
+    <version>23.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>ujar-boot-cache</name>
@@ -32,9 +32,9 @@
     </developers>
 
     <parent>
-        <groupId>org.ujar.parent</groupId>
-        <artifactId>ujar-parent-pom</artifactId>
-        <version>0.2.0-SNAPSHOT</version>
+        <groupId>org.ujar.boot</groupId>
+        <artifactId>ujar-boot-parent-pom</artifactId>
+        <version>23.0.0-SNAPSHOT</version>
         <relativePath/>
     </parent>
     <dependencies>

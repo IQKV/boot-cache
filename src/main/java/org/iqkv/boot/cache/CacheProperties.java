@@ -1,8 +1,8 @@
-package org.ujar.boot.cache;
+package org.iqkv.boot.cache;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
-@ConfigurationProperties(prefix = "ujar.cache", ignoreUnknownFields = false)
+@ConfigurationProperties(prefix = "iqkv.cache", ignoreUnknownFields = false)
 public class CacheProperties {
   Ehcache ehcache = new Ehcache();
 

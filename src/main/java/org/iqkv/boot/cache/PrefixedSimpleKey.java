@@ -11,6 +11,7 @@ import org.springframework.util.StringUtils;
  */
 public class PrefixedSimpleKey implements Serializable {
 
+  private static final long serialVersionUID = 1L;
   private final String prefix;
   private transient Object[] params;
   private final String methodName;

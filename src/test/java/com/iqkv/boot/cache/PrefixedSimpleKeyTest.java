@@ -1,4 +1,4 @@
-package org.iqkv.boot.cache;
+package com.iqkv.boot.cache;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;

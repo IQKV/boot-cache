@@ -1,4 +1,4 @@
-package org.iqkv.boot.cache;
+package com.iqkv.boot.cache;
 
 import java.io.Serializable;
 import java.util.Arrays;

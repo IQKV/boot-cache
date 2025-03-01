@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>boot-cache</name>
-    <description>Caching support library</description>
+    <description>Caching support properties</description>
     <licenses>
         <license>
             <name>The Apache Software License, Version 2.0</name>

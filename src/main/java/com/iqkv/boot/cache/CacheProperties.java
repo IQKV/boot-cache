@@ -18,7 +18,7 @@ package com.iqkv.boot.cache;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
-@ConfigurationProperties(prefix = "iqkv.cache", ignoreUnknownFields = false)
+@ConfigurationProperties(prefix = "application-settings.cache", ignoreUnknownFields = false)
 public class CacheProperties {
   Ehcache ehcache = new Ehcache();
 

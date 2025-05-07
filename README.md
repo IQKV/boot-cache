@@ -1,4 +1,4 @@
-# Cache Properties
+# ✨ Cache Properties
 
 ## Versioning
 

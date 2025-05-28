@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package expert.uses.boot.cache;
+package com.iqkv.boot.cache;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

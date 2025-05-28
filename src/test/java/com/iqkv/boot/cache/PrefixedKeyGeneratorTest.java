@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package expert.uses.boot.cache;
+package com.iqkv.boot.cache;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
